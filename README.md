@@ -1,5 +1,7 @@
 # BlinkIt-Dashboard
 
+https://app.powerbi.com/view?r=eyJrIjoiZjFjYjQwMWYtYzU4NS00OGY2LTkxYTYtNTI5ZGZhMzViMWUxIiwidCI6ImY2OTU5YjI4LTY0ZGUtNDY2ZC1iZmI5LTlhMzE4NWJhNjBiYyJ9
+
 The main objective of this project is to conduct a comprehensive analysis of Blinkit's sales performance,
 customer satisfaction and inventory distribution to identify key insights and opportunities for optimization 
 using various KPI's and visualizations in Tableau.
