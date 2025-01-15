@@ -15,7 +15,7 @@ Steps Followed:
 7.Dashboard layouting 
 8.Charts Development and formatting
 9.Dashboard/Report Development
-10.insights Generation
+10.Insights Generation
 
 KPI's Requirements:
 
