@@ -4,7 +4,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZjFjYjQwMWYtYzU4NS00OGY2LTkxYTYtNTI5ZGZhM
 
 The main objective of this project is to conduct a comprehensive analysis of Blinkit's sales performance,
 customer satisfaction and inventory distribution to identify key insights and opportunities for optimization 
-using various KPI's and visualizations in Tableau.
+using various KPI's and visualizations in Power BI.
 
 Steps Followed:
 
